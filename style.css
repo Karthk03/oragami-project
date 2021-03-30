@@ -1,0 +1,26 @@
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0b032d;
+}
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #621940;
+}
+h1
+{
+    color: #f67e7d;
+}
+ul
+{
+    color: #ffb997;
+}
+p
+{
+    color: #f67e7d;
+    font-size: large;
+}
